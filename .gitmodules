@@ -28,3 +28,6 @@
 [submodule "ant"]
 	path = ant
 	url = git://github.com/opscode-cookbooks/ant.git
+[submodule "screen"]
+	path = screen
+	url = git://github.com/opscode-cookbooks/screen.git
