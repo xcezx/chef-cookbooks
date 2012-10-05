@@ -31,3 +31,6 @@
 [submodule "screen"]
 	path = screen
 	url = git://github.com/opscode-cookbooks/screen.git
+[submodule "vim"]
+	path = vim
+	url = git://github.com/opscode-cookbooks/vim.git
