@@ -25,3 +25,6 @@
 [submodule "memcached"]
 	path = memcached
 	url = git://github.com/opscode-cookbooks/memcached.git
+[submodule "ant"]
+	path = ant
+	url = git://github.com/opscode-cookbooks/ant.git
