@@ -10,3 +10,6 @@
 [submodule "subversion"]
 	path = subversion
 	url = git://github.com/opscode-cookbooks/subversion.git
+[submodule "zsh"]
+	path = zsh
+	url = git://github.com/opscode-cookbooks/zsh.git
