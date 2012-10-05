@@ -4,3 +4,6 @@
 [submodule "mysql"]
 	path = mysql
 	url = git://github.com/opscode-cookbooks/mysql.git
+[submodule "git"]
+	path = git
+	url = git://github.com/opscode-cookbooks/git.git
