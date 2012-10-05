@@ -22,3 +22,6 @@
 [submodule "php"]
 	path = php
 	url = git://github.com/opscode-cookbooks/php.git
+[submodule "memcached"]
+	path = memcached
+	url = git://github.com/opscode-cookbooks/memcached.git
