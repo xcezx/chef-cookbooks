@@ -40,3 +40,6 @@
 [submodule "ack"]
 	path = ack
 	url = git://github.com/cap10morgan/ack-cookbook.git
+[submodule "tree"]
+	path = tree
+	url = git://github.com/retr0h/cookbook-tree.git
