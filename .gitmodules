@@ -34,3 +34,6 @@
 [submodule "vim"]
 	path = vim
 	url = git://github.com/opscode-cookbooks/vim.git
+[submodule "apt"]
+	path = apt
+	url = git://github.com/opscode-cookbooks/apt.git
