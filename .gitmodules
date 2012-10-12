@@ -37,3 +37,6 @@
 [submodule "apt"]
 	path = apt
 	url = git://github.com/opscode-cookbooks/apt.git
+[submodule "ack"]
+	path = ack
+	url = git://github.com/cap10morgan/ack-cookbook.git
