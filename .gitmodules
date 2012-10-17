@@ -46,3 +46,6 @@
 [submodule "php-timecop"]
 	path = php-timecop
 	url = git://github.com/xcezx/cookbook-php-timecop.git
+[submodule "nodejs"]
+	path = nodejs
+	url = git://github.com/mdxp/nodejs-cookbook.git
