@@ -52,3 +52,6 @@
 [submodule "openssl"]
 	path = openssl
 	url = git://github.com/opscode-cookbooks/openssl.git
+[submodule "php-redis"]
+	path = php-redis
+	url = git://github.com/xcezx/cookbook-php-redis.git
