@@ -55,3 +55,6 @@
 [submodule "php-redis"]
 	path = php-redis
 	url = git://github.com/xcezx/cookbook-php-redis.git
+[submodule "jenkins"]
+	path = jenkins
+	url = git://github.com/fnichol/chef-jenkins.git
