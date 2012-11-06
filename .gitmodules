@@ -61,3 +61,9 @@
 [submodule "phpunit"]
 	path = phpunit
 	url = git://github.com/xcezx/chef-phpunit.git
+[submodule "application"]
+	path = application
+	url = git://github.com/opscode-cookbooks/application.git
+[submodule "application_php"]
+	path = application_php
+	url = git://github.com/opscode-cookbooks/application_php.git
