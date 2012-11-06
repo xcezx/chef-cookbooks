@@ -58,3 +58,6 @@
 [submodule "jenkins"]
 	path = jenkins
 	url = git://github.com/fnichol/chef-jenkins.git
+[submodule "phpunit"]
+	path = phpunit
+	url = git://github.com/xcezx/chef-phpunit.git
