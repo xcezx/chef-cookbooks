@@ -21,7 +21,7 @@
 	url = git://github.com/opscode-cookbooks/build-essential.git
 [submodule "php"]
 	path = php
-	url = git://github.com/opscode-cookbooks/php.git
+	url = git://github.com/xcezx/cookbook-php.git
 [submodule "memcached"]
 	path = memcached
 	url = git://github.com/opscode-cookbooks/memcached.git
@@ -60,7 +60,7 @@
 	url = git://github.com/fnichol/chef-jenkins.git
 [submodule "phpunit"]
 	path = phpunit
-	url = git://github.com/xcezx/chef-phpunit.git
+	url = git://github.com/xcezx/cookbook-phpunit.git
 [submodule "application"]
 	path = application
 	url = git://github.com/opscode-cookbooks/application.git
